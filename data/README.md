@@ -23,5 +23,4 @@ rec2018-01-22_17h42m07.718s.wav,Inhale,16951,28010
 
 ## Inhaler audio dataset link
 
-[Download link](https://drive.google.com/file/d/1kEqc3GCP9Mi2bVh6RUQBwTXecAVeeVdu/view?usp=sharing)
-
+<a href="https://drive.google.com/file/d/1kEqc3GCP9Mi2bVh6RUQBwTXecAVeeVdu/view?usp=sharing" target="_blank">Download link</a>
