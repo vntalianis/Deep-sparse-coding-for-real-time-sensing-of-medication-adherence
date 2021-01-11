@@ -88,3 +88,19 @@ python train_eval_pruning_without_retraining.py
 python train_eval_product_quantization.py
 
 ```
+
+
+## Citation
+
+```
+@article{ntalianis2020deep,
+  title={Deep CNN Sparse Coding for Real Time Inhaler Sounds Classification},
+  author={Ntalianis, Vaggelis and Fakotakis, Nikos Dimitris and Nousias, Stavros and Lalos, Aris S and Birbas, Michael and Zacharaki, Evangelia I and Moustakas, Konstantinos},
+  journal={Sensors},
+  volume={20},
+  number={8},
+  pages={2363},
+  year={2020},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+```
