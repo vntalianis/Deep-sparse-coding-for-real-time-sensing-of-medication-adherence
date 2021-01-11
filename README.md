@@ -1,6 +1,11 @@
 
 
 # Deep CNN Sparse Coding for Real Time Inhaler Sounds Classification
+
+'''
+Ntalianis, V., Fakotakis, N. D., Nousias, S., Lalos, A. S., Birbas, M., Zacharaki, E. I., & Moustakas, K. (2020). Deep CNN Sparse Coding for Real Time Inhaler Sounds Classification. Sensors, 20(8), 2363.
+'''
+
 ## Introduction
 Effective management of chronic constrictive pulmonary conditions lies in proper and timely administration of medication. As a series of studies indicates, medication adherence can effectively be monitored by successfully identifying actions performed by patients during inhaler usage. This study focuses on the recognition of inhaler audio events during usage of pressurized metered dose inhalers (pMDI). Aiming at real-time performance, we investigate deep sparse coding techniques including convolutional filter pruning, scalar pruning and vector quantization, for different convolutional neural network (CNN) architectures. The recognition performance has been assessed on three healthy subjects following both within and across subjects modeling strategies. The selected CNN architecture classified drug actuation, inhalation and exhalation events, with 100%, 92.6% and 97.9% accuracy, respectively, when assessed in a leave-one-subject-out cross-validation setting. Moreover, sparse coding of the same architecture with an increasing compression rate from 1 to 7 resulted in only a small decrease in classification accuracy (from 95.7% to 94.5%), obtained by random (subject-agnostic) cross-validation. A more thorough assessment on a larger dataset, including recordings of subjects with multiple respiratory disease manifestations, is still required in order to better evaluate the method’s generalization ability and robustness.
 
